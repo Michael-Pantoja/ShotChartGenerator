@@ -57,6 +57,12 @@ Player.main()
 
 ![Example](https://user-images.githubusercontent.com/74287805/113079231-81d99700-9189-11eb-9a1e-9e3f61792300.png)
 
+## To Do
+
+- Add Shot Analysis
+- Add Ability to compare players
+- More Customization Opportunities
+- 
 ## Changelog
 
 ### Version 1.0
