@@ -62,7 +62,7 @@ Player.main()
 - Add Shot Analysis
 - Add Ability to compare players
 - More Customization Opportunities
-- 
+
 ## Changelog
 
 ### Version 1.0
