@@ -1,6 +1,0 @@
-jsonschema==3.2.0
-matplotlib==3.3.3
-nba-api==1.1.9
-numpy==1.18.5
-pandas==1.1.2
-requests==2.24.0
